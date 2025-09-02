@@ -54,7 +54,7 @@ const projectData = [
     tag: ["All", "web"],
     gitUrl: "https://github.com/ahalyajupalli/Climate-Data-Visualization",
     previewUrl:
-      "https://climate-date.vercel.app/",
+      "https://climate-data-visualization.vercel.app/",
   },
   {
     id: 6,
