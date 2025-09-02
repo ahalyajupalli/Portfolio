@@ -50,7 +50,7 @@ const projectData = [
     title: "Weather Website",
     description:
       "A React-based weather visualization platform with a Node.js backend. Features include real-time API integration, interactive dashboards, and graphical visualizations for better forecasting insights.",
-    image: "/images/projects/2.png",
+    image: "/images/projects/weather.png",
     tag: ["All", "web"],
     gitUrl: "https://github.com/ahalyajupalli/Climate-Data-Visualization",
     previewUrl:
