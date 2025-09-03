@@ -65,7 +65,7 @@ const projectData = [
     tag: ["All", "web"],
     gitUrl: "https://github.com/ahalyajupalli/Chat-Application",
     previewUrl:
-      "/",
+      "https://chat-application-git-master-jupalli-ahalyas-projects.vercel.app/",
   },
   {
     id: 7,
