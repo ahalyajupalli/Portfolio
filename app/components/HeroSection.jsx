@@ -35,7 +35,7 @@ function HeroSection() {
     </div>
                 </h1>
                 <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-                    I&apos;m currently software developer at Accountium. Ready fro my new adventure!!
+                    I&apos;m currently software developer at Accountium. Ready for my new adventure!!
                 </p>
                 <div>
                     <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-bg-primary-500 to-secondary-500 bg-white hover:bg-slate-200 text-white'>Hire Me</button>
