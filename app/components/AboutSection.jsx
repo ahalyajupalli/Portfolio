@@ -95,7 +95,7 @@ function AboutSection() {
             and cloud technologies. At Cognizant, I improved release pipelines
             and built automation utilities. At ARC Center, I developed AppBot
             and a monitoring dashboard using ReactJS and AWS, improving
-            scalability and reliability. Currently at Accountium, I implement
+            scalability and reliability. Currently at ADP, I implement
             front-end solutions with React js and backend integration with .NET
             ASP, delivering efficient business workflows.
           </p>
