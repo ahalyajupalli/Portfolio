@@ -51,7 +51,7 @@ function HeroSection() {
             className="col-span-4   place-content-center mt-4 lg:mt-0">
                 <div className="rounded-full bg-[#000000] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
                     <Image
-                    src="/images/hero-image.png"
+                    src="/images/hero.jpeg"
                     alt="hero image"
                     className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                     width={300}
